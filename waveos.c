@@ -15,7 +15,7 @@ int main() {
             printf("wave - Activates the wave\n");
             printf("info - Shows the information\n");
             printf("version - Shows the version\n");
-            printf("shutdown - shutdowns the os\n");
+            printf("shutdown - Shutdowns the OS\n");
         } else if (strstr(option, "wave") != NULL) {
             printf("WAVE ACTIVATED🌊\n");
         } else if (strstr(option, "info") != NULL) {
