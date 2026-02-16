@@ -11,11 +11,6 @@ To change directorys:
 cd WaveOS-C
 ```
 
-To change mods:
-```bash
-chmod +x *
-```
-
 To run:
 ```bash
 gcc -o waveos waveos.c
